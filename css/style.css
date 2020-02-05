@@ -1,0 +1,9 @@
+#xf-logo {
+    background-image: url(../img/logo.jpg);
+    height: 50px;
+}
+
+.listing .even {
+    /*every second line should be shaded */
+    background-color: transparent;
+}
